@@ -15,7 +15,11 @@ You do not need to ask for permission, but please give Moxi a callout on your pa
 -----------------------------------------
 
 Thank you 
+
 ShinyHobo for Multitool
+
 Norbyte for ExportTool and Script Extender
+
 LaughingLeader for ModManager
+
 The Ascended Astarion, the BG3 villains and the Gale community for inspiring me and motivating me!
